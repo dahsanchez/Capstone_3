@@ -10,4 +10,4 @@ The report is designed to:
 * Identify top-selling books and authors (excluding textbooks)
 * Highlight key performance insights to support decision-making
 
-This is my [Capstone Video](https://yearuptemp-my.sharepoint.com/:f:/g/personal/dsanchez1_my_yearupunited_org/IgBkX3SYz8AZR4La7XXiiVlKAeWHVbuTeOLsZkxB_l9N_OI?e=MQL7dK)
+This is my [Capstone Video](https://yearuptemp-my.sharepoint.com/:v:/g/personal/dsanchez1_my_yearupunited_org/IQCvsJC3n8FVTrYu6w6Ql2hqAQDW6_va9b-UgImf2L8E62U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dYbCmx)
