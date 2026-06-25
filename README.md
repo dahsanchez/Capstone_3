@@ -4,7 +4,6 @@ The goal of this report is to analyze sales performance over the last four years
 
 
 The report is designed to:
-
 * Analyze sales trends over time
 * Evaluate sales performance across product categories
 * Compare regional sales distribution by state
